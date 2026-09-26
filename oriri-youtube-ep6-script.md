@@ -30,11 +30,11 @@ The urgency is real: this footage stops existing once the slab is patched. That'
 
 ## 🎯 THE GAP THIS EPISODE IS AIMED AT
 
-**Primary target:** "coffee shop plumbing"
+**Primary target:** "coffee shop plumbing"  
 **Secondary (and possible swap-in title):** "does a coffee shop need a grease trap"
 
-| | |
-|:-:|:-:|
+| Search | What ranks now |
+|:--|:--|
 | **What ranks for coffee shop plumbing** | Coffee **carts** and **food trucks** (*Plumbing for a Coffee Food Truck*, *Coffee Cart Plumbing & Build*) and home coffee bars. Nothing covers a brick-and-mortar shop. |
 | **What ranks for under-slab plumbing** | Residential only: bathroom rough-ins and house slabs. Nobody shows a commercial slab cut for floor sinks and a grease interceptor. |
 | **What ranks for grease traps** | Trap vendors, septic companies, city pretreatment pages, and a coffee forum thread literally titled *"NEED HELP! Grease Trap Requirements."* Someone is asking and a forum is answering. **When forums and vendor blogs own a question, the video slot is empty.** |
@@ -66,22 +66,22 @@ No rent figures in any form: base, NNN, monthly, per-square-foot, burn rate, dep
 ## Blanks
 
 | Item | Value |
-|:-:|:-:|
-| **Total drains/fixtures in the space** | ___ ← the cold-open number |
-| Floor sinks | ___ |
-| Hand sinks | ___ |
-| Other fixtures (3-compartment, prep, mop, restroom) | ___ |
-| Feet of trench cut | ___ ft |
-| **Grease interceptor: type, size, location** | ___ gal · under-sink / in-floor / outdoor |
-| **Grease interceptor: installed cost** | $___ |
-| Pumping frequency + cost per pump-out | every ___ · $___ |
-| Backflow devices: count + total cost | ___ · $___ |
-| Plumbing portion of the contract (if itemized) | $___ |
-| Plumbing extras outside the contract | $___ |
-| Underground plumbing inspection: date + result | ___ · pass / corrections |
-| **Running build-out total** (permits $3,315 + contract + extras to date) | $___ ← the Chapter 5 payoff |
-| Days slipped to date (EP5 total + this week) | ___ |
-| Electrician status | ___ |
+|:--|:--|
+| **Total drains/fixtures in the space** | \_\_\_ ← the cold-open number |
+| Floor sinks | \_\_\_ |
+| Hand sinks | \_\_\_ |
+| Other fixtures (3-compartment, prep, mop, restroom) | \_\_\_ |
+| Feet of trench cut | \_\_\_ ft |
+| **Grease interceptor: type, size, location** | \_\_\_ gal · under-sink / in-floor / outdoor |
+| **Grease interceptor: installed cost** | $\_\_\_ |
+| Pumping frequency + cost per pump-out | every \_\_\_ · $\_\_\_ |
+| Backflow devices: count + total cost | \_\_\_ · $\_\_\_ |
+| Plumbing portion of the contract (if itemized) | $\_\_\_ |
+| Plumbing extras outside the contract | $\_\_\_ |
+| Underground plumbing inspection: date + result | \_\_\_ · pass / corrections |
+| **Running build-out total** (permits $3,315 + contract + extras to date) | $\_\_\_ ← the Chapter 5 payoff |
+| Days slipped to date (EP5 total + this week) | \_\_\_ |
+| Electrician status | \_\_\_ |
 
 ---
 
@@ -96,7 +96,7 @@ No rent figures in any form: base, NNN, monthly, per-square-foot, burn rate, dep
 ## CAMERA SETUPS
 
 | ID | Setup | Where | Purpose |
-|:-:|:-:|:-:|:-:|
+|:--|:--|:--|:--|
 | **A** | Host, wide, in the space | The space | Promise, Chapter 5 |
 | **B** | Host, seated | Home | Chapter 4 backflow explainer, lease line |
 | **C** | Overhead | Table | Plumbing plan sheet (title block cropped), spec sheets, invoices |
@@ -127,11 +127,11 @@ No rent figures in any form: base, NNN, monthly, per-square-foot, burn rate, dep
 
 **SHOT 2** — Setup D. Stand over the trench, pointing down.
 
-**"There are ___ drains in a space under 1,500 square feet. That's more than most houses. Because a coffee shop isn't really a coffee project. It's a plumbing project with an espresso machine on top."**
+**"There are \_\_\_ drains in a space under 1,500 square feet. That's more than most houses. Because a coffee shop isn't really a coffee project. It's a plumbing project with an espresso machine on top."**
 
 **"Every drain, why it's there, which ones the health department made me add, and whether a coffee shop needs a grease trap. The answer surprised me."**
 
-⚠️ **The fixture count lands inside twenty seconds.** It's the number that makes a stranger stop scrolling. If ___ turns out to be unimpressive, lead with the grease-trap question instead.
+⚠️ **The fixture count lands inside twenty seconds.** It's the number that makes a stranger stop scrolling. If \_\_\_ turns out to be unimpressive, lead with the grease-trap question instead.
 
 ---
 
@@ -143,9 +143,9 @@ No rent figures in any form: base, NNN, monthly, per-square-foot, burn rate, dep
 
 - **The lease, named and owned:**
 
-  **"Last week I said I'd open my lease this time, and that I meant it. I didn't do it. The trenches are only open for a few days, and the lease will be exactly the same document in a week. It's Episode 7, October 6th, and it's pinned in the comments so you can hold me to it."**
+    **"Last week I said I'd open my lease this time, and that I meant it. I didn't do it. The trenches are only open for a few days, and the lease will be exactly the same document in a week. It's Episode 7, October 6th, and it's pinned in the comments so you can hold me to it."**
 
-- **Where I am:** week two of construction. Days slipped so far: ___. Electrician: ___. Rent starts November 28th.
+- **Where I am:** week two of construction. Days slipped so far: \_\_\_. Electrician: \_\_\_. Rent starts November 28th.
 - **What's in this video:** why a coffee shop cuts its floor, the floor sinks, the grease interceptor, the backflow devices, and what it all cost.
 
 **"I'm not a plumber, none of this is advice, and every number is off a real invoice."**
@@ -158,7 +158,7 @@ No rent figures in any form: base, NNN, monthly, per-square-foot, burn rate, dep
 
 **Chapter card:** 1 — WATER IN, WATER OUT
 
-**Walk the room. Name everything that uses water:** espresso machine · pitcher rinser · ice machine · three-compartment sink · prep sink · hand sinks (___) · mop sink · water filtration · the restroom.
+**Walk the room. Name everything that uses water:** espresso machine · pitcher rinser · ice machine · three-compartment sink · prep sink · hand sinks (\_\_\_) · mop sink · water filtration · the restroom.
 
 **"In a house the kitchen has one sink and a dishwasher. In a café, almost everything behind the bar either takes water in or sends water out. Usually both."**
 
@@ -196,7 +196,7 @@ Keep it even if the answer is short or dry. A second voice at the 2:30 mark is a
 
 **Chapter card:** 2 — FLOOR SINKS
 
-**"This is going to be a floor sink. A square drain set into the floor, flush with the tile. You've walked past a hundred of them behind a counter and never noticed. I have ___."**
+**"This is going to be a floor sink. A square drain set into the floor, flush with the tile. You've walked past a hundred of them behind a counter and never noticed. I have \_\_\_."**
 
 **"Here's why they exist. My ice machine makes water. Melted ice has to go somewhere. And the obvious thing, piping it straight into the drain, is not allowed."**
 
@@ -218,11 +218,11 @@ On-screen text: **SEWAGE CAN CLIMB A PIPE. IT CAN'T JUMP ACROSS AIR.**
 
 **"And this is the part I didn't understand when I was drawing my floor plan. The floor sink location decides where the equipment goes. Not the other way around. The ice machine goes where a floor sink can reach it. The espresso machine goes where a drain can reach it. Once the concrete goes back, every one of those decisions is permanent."**
 
-**"In Episode 3 I redrew my layout ___ times. I thought I was arranging furniture. I was placing drains."**
+**"In Episode 3 I redrew my layout \_\_\_ times. I thought I was arranging furniture. I was placing drains."**
 
 ★ **Strongest callback in the episode.** Hold the overlay on screen through the whole line.
 
-**Cost beat:** **"Each floor sink is about $___ installed, and I have ___ of them."**
+**Cost beat:** **"Each floor sink is about $\_\_\_ installed, and I have \_\_\_ of them."**
 
 ---
 
@@ -248,14 +248,14 @@ Beat.
 
 **What yours actually is.** Say it plainly:
 
-**"Mine is a ___-gallon ___ interceptor, and it's going ___. Installed, it cost $___."**
+**"Mine is a \_\_\_-gallon \_\_\_ interceptor, and it's going \_\_\_. Installed, it cost $\_\_\_."**
 
 - *If it's small and under-sink:* **"Small, because we don't cook. If we had a kitchen, this could be an in-ground tank in the parking lot and a much bigger number."**
 - *If it's in-ground or outside:* **"Big, and outside, and it needed landlord approval. This was the single most expensive drain in the building."** ⚠️ *Requirement only. Never the Landlord's position.*
 
 **The part nobody tells you: it's not a purchase, it's a subscription.**
 
-**"And you don't just buy it. You have to get it pumped out. Mine every ___, at about $___ a visit, and the city can ask to see the records. So the grease trap is a line on my monthly budget for as long as I'm open."**
+**"And you don't just buy it. You have to get it pumped out. Mine every \_\_\_, at about $\_\_\_ a visit, and the city can ask to see the records. So the grease trap is a line on my monthly budget for as long as I'm open."**
 
 ⚠️ *Fill the frequency and cost from the Pretreatment Program or a pump-out quote. Don't guess. If you don't have them, cut the numbers and keep the sentence.*
 
@@ -279,10 +279,10 @@ Beat.
 
 **"Floor sinks protect the equipment from the sewer. This protects the city's water from my equipment. If pressure drops on the street, a water main break or a fire hydrant opening, water can get pulled backwards out of whatever's connected. My espresso machine has water sitting in it at two hundred degrees. That shouldn't end up in my neighbor's tap."**
 
-**"So every one of those gets one of these. I have ___. Total, about $___."**
+**"So every one of those gets one of these. I have \_\_\_. Total, about $\_\_\_."**
 
-⚠️ **If Cedar Park requires annual testing:**
-**"And like the grease trap, it's not one and done. They get tested every year by a certified tester. Another subscription."**
+⚠️ **If Cedar Park requires annual testing:**  
+**"And like the grease trap, it's not one and done. They get tested every year by a certified tester. Another subscription."**  
 *If there's no annual testing requirement for your devices, cut this line entirely. Don't hedge it on camera.*
 
 **Close the chapter:**
@@ -299,9 +299,9 @@ Beat.
 
 **Chapter card:** 5 — THE BILL
 
-**"Everything under this floor: $___. ___ of that was in my contract. $___ wasn't."**
+**"Everything under this floor: $\_\_\_. \_\_\_ of that was in my contract. $\_\_\_ wasn't."**
 
-**On screen, held 3 seconds:** UNDER THE FLOOR: $___ · ___ DRAINS · UNDER 1,500 SF
+**On screen, held 3 seconds:** UNDER THE FLOOR: $\_\_\_ · \_\_\_ DRAINS · UNDER 1,500 SF
 
 ### ★★ The running total: new, and it stays
 
@@ -322,7 +322,7 @@ BUILD-OUT TO DATE                $___
 
 📌 *This is the EP5 channel note put into practice: one running number that ties every episode to the same search family and gives people a reason to come back. **Build the graphic once as a reusable template** so it's a 5-minute update from now on.*
 
-**Days:** **"Days slipped so far: ___. Rent still starts November 28th."** No dollar figure on the days. Ever.
+**Days:** **"Days slipped so far: \_\_\_. Rent still starts November 28th."** No dollar figure on the days. Ever.
 
 ### What I'd do differently: three, fast
 
@@ -356,7 +356,7 @@ Beat.
 
 **SHOT 15** — Setup E. The locked-off wide, matching Shot 1. If the concrete is back by now, even better: same frame, trenches gone. **Hold three seconds longer than feels right.**
 
-**"Where I am: ___ drains in, underground inspection ___, $___ spent to date, and ___ days behind."**
+**"Where I am: \_\_\_ drains in, underground inspection \_\_\_, $\_\_\_ spent to date, and \_\_\_ days behind."**
 
 **"Episode 7 is October 6th. My actual lease, clause by clause. Including the two deadlines in it that can end this whole thing."**
 
@@ -371,7 +371,7 @@ Beat.
 # STORYBOARD
 
 | # | Time | Setup | Content |
-|:-:|:-:|:-:|:-:|
+|:--|:--|:--|:--|
 | 1 | 0:00 | E | ★★ Weekly frame, floor open, "before it's buried" |
 | 2 | 0:15 | D | ★ The fixture count, standing over the trench |
 | 3 | 0:40 | A | Promise + the lease, named, with a date |
@@ -403,7 +403,7 @@ Beat.
 
 1. **Coffee Shop Plumbing: What Goes Under the Floor (Before It's Buried)** ← primary
 2. **Does a Coffee Shop Need a Grease Trap? Here's What's Under My Floor**
-3. **Coffee Shop Plumbing Cost: $___ for Everything Under the Floor**
+3. **Coffee Shop Plumbing Cost: $\_\_\_ for Everything Under the Floor**
 4. **I Cut Up My Coffee Shop's Concrete Floor. Here's Why.**
 
 - **#1 is the primary.** Query phrase first. "Before it's buried" adds urgency without clickbait, and it's literally true.
@@ -490,7 +490,7 @@ health requirements vary by city, county and state.
 
 ## Pinned comment (post at publish)
 
-> The lease episode is **Episode 7 — Tuesday, October 6.** Hold me to it.
+> The lease episode is **Episode 7 — Tuesday, October 6.** Hold me to it.  
 > What's the one thing under your floor you'd do differently?
 
 ---
