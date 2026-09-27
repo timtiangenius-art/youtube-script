@@ -1,95 +1,107 @@
-# Oriri Coffee — YouTube Episode 6
+# Oriri Coffee — YouTube Episode 6 (v2)
 
-## Coffee Shop Plumbing: What Goes Under the Floor (Before It's Buried)
+## Coffee Shop Plumbing on a Budget: Every Tool We Used, and What It Saved
 
-**Runtime target:** 12–13 min · **Film:** Sat/Sun Sep 26–27, 2026 · **Publish:** Tue Sep 29, 2026, 10:00am CT
+**Runtime target:** 12–13 min · **Film:** Sun Sep 27, 2026 (+ pickups Mon) · **Publish:** Tue Sep 29, 2026, 10:00am CT
 
-**No TikTok section this week, as requested.** No "say clip" markers on set either.
+**What changed in v2:** the angle moves from *"what goes under the floor"* to **"how we did coffee shop plumbing cheaply, and the tools on site that made it cheap."** The under-floor explainer shrinks to about 90 seconds of context. A tool-by-tool segment becomes the centerpiece. The code items (floor sinks, backflow, grease trap) stay, reframed as **"where we didn't go cheap."** That chapter is what makes the budget advice trustworthy.
+
+**No TikTok section.**
 
 ---
 
-## ⚠️ Read first: the lease episode is being deferred for the second time
+## 🚨 Read before you film: two things this angle makes riskier
 
-EP5 closed with: *"Next week — and this time I mean it — I'm opening my actual lease."* This episode breaks that promise. That's a defensible call, because trenches are only filmable for a few days and the lease will keep. Two deferrals are survivable **only if the second one is handled better than the first:**
+### 1. "Cheap" can never sound like "do it yourself"
 
-1. **Name it in the first minute and own it. Don't explain it away.** The line is in the Promise section below.
-2. **Give a date, not "next week."** Say *"Episode 7, October 6th."* Then pin a comment with the same date the day you publish.
-3. **Don't say it on camera unless it's true.** Before you record that line, make sure the lease script exists. The version EP5 said was parked at `claude/oriri-youtube-ep6-lease-script.md` isn't in this repo or in your Drive. If you can't find it, tell me and I'll write EP7 from scratch this week. If you can't commit to October 6th, cut the date and say *"the lease is the next sit-down episode."*
+In Texas, **plumbing in a commercial building must be done by a licensed plumber working under a registered contractor.** There's no small-business exemption. The homeowner exemption covers your own house, not your café. A video titled "cheap plumbing" that seems to show an owner or an unlicensed crew plumbing a commercial space is a problem with your inspector, and with any viewer who copies it.
 
-There's also a real bridge between the two episodes (Chapter 5, lesson 2): **a grease interceptor is a lease question.** That makes the handoff honest instead of a third "next week."
+- **Confirm before you film:** who holds the Texas plumbing license on this job, and who pulled the plumbing permit (the $73.25 from EP4)? If it's Trieu, great: say *"he's a licensed plumber"* on camera. If he works under someone else's license, say that instead. **Don't film this episode until you know the answer.**
+- **You hold the camera, not the tools.** Show Trieu's crew using them. If you pick one up to explain it, it's a prop: no cutting, no gluing, no connecting.
+- **Say the rule out loud once** (it's in the Promise section): *"Cheap doesn't mean doing it yourself. Commercial plumbing in Texas needs a licensed plumber and an inspection. Everything I'm showing you is how we kept his hours and the materials down."*
+
+### 2. Concrete dust is on camera now
+
+Cutting concrete makes silica dust, and OSHA has a specific rule for it. A **walk-behind saw must cut wet** (continuous water to the blade). **Indoors, the operator also needs a respirator** (APF 10, meaning an N95-class or better). Comment sections notice this every time.
+
+- Film the saw **cutting wet**, with the operator in a respirator, eye protection and hearing protection.
+- If any existing footage shows a dry cut or no respirator, **don't use it**, including the EP5 b-roll.
+- Showing it done right is also a teaching moment. Chapter 3 uses it.
+
+### Carried over from v1: the lease
+
+The lease deferral is unchanged. Name it in the first minute, give the date (**Episode 7, October 6**), and pin it. Only say the date if the lease script exists; tell me if you need it written.
 
 ---
 
 ## The spine
 
-**A coffee shop is a plumbing project with an espresso machine on top. Here's everything under my floor, filmed before the concrete goes back and nobody ever sees it again.**
+**Cheap plumbing isn't cheap pipe. Pipe is the cheapest thing on the floor. What costs money is concrete, hours, and doing it twice. We cut all three, and here are the tools that did it. And here's where we spent full price on purpose.**
 
-The urgency is real: this footage stops existing once the slab is patched. That's the retention engine. Every chapter is one kind of pipe, and every pipe answers one question an owner will search for.
+Two halves that earn each other: the savings, which are the hook, and the non-negotiables, which are the trust. Without the second half, this is a video an inspector would hate. With it, it's the most useful plumbing video a café owner can find.
 
 ---
 
-## 🎯 THE GAP THIS EPISODE IS AIMED AT
+## 🎯 THE GAP
 
-**Primary target:** "coffee shop plumbing"  
-**Secondary (and possible swap-in title):** "does a coffee shop need a grease trap"
+**Target:** "coffee shop plumbing cost" · "coffee shop plumbing" · "save money opening a coffee shop"
 
 | Search | What ranks now |
 |:--|:--|
-| **What ranks for coffee shop plumbing** | Coffee **carts** and **food trucks** (*Plumbing for a Coffee Food Truck*, *Coffee Cart Plumbing & Build*) and home coffee bars. Nothing covers a brick-and-mortar shop. |
-| **What ranks for under-slab plumbing** | Residential only: bathroom rough-ins and house slabs. Nobody shows a commercial slab cut for floor sinks and a grease interceptor. |
-| **What ranks for grease traps** | Trap vendors, septic companies, city pretreatment pages, and a coffee forum thread literally titled *"NEED HELP! Grease Trap Requirements."* Someone is asking and a forum is answering. **When forums and vendor blogs own a question, the video slot is empty.** |
-| **What you have** | Open trenches, a builder who does his own plumbing, a health-district letter that named your backflow devices (EP4), and a $25 "Industrial Pre-Treatment" line on your city invoice that turns out to mean something. |
+| **Coffee shop plumbing** | Coffee carts, food trucks and home coffee bars. No brick-and-mortar shop. |
+| **Cheap / budget plumbing** | ⚠️ Owned by **residential DIY** channels: fixing your own sink, PEX at home. Don't compete there, and don't use "DIY" anywhere. **"Coffee shop" must stay in the title** so you're in a pool you can win. |
+| **Saving money opening a coffee shop** | Generic startup-tips videos (buy used equipment, negotiate rent). Nobody shows a specific trade with receipts. |
+| **What you have** | A plumbing number, the tools that produced it, and a plumber-builder on camera. |
 
-**Caveat, stated plainly:** I checked supply (what ranks) this week, not demand (autocomplete). **Before you lock the title, spend two minutes typing "coffee shop plumbing" and "coffee shop grease trap" into the YouTube search bar and note what autocompletes.** If "grease trap" completes and "plumbing" doesn't, flip to title #2.
-
-**Why this fits the long-tail plan from EP5:** smaller pool, near-zero supply, and you're the best answer that exists. It also extends the build-out-cost query family the channel is building its spine on.
+**Before you lock the title:** type *"coffee shop plumbing"* and *"how to save money opening a coffee shop"* into YouTube search and note what autocompletes. Two minutes.
 
 ---
 
 ## ⚠️ Disclosure
 
-### New this week
+**New in v2**
 
-1. **Trieu on camera.** Use whatever he agreed to for EP5 (first name, face or hands only). He's the plumber on this job, so this is his episode as much as yours. If you didn't get his consent on tape last week, get it now, before anything else.
-2. **Plumbing plan sheets.** The P-sheet has the architect's or engineer's title block, stamp, license number and contact details. **Crop or blur the title block before any overhead or screen-record shot.** Same treatment as EP4.
-3. **The grease interceptor may touch shared property.** If it goes outside, into a shared line, or into the parking lot, that involves the Landlord. **Describe the requirement, never the Landlord's position on it.** Say *"it needed landlord approval"* and stop there.
-4. **The electrician.** Any update follows EP5's rules: no name, no company, schedule framing only, never "fired." If there's a new electrician, "we found an electrician, he's registered" is the whole sentence.
+1. **The license** (above). This is the one that matters.
+2. **Tool brands and rental stores.** Fine to show and name. **Don't imply a sponsorship you don't have.** If you ever add affiliate links for these tools, the FTC requires you to disclose them, both in the description *and* out loud.
+3. **Comparing prices to other bids.** If you compare to the plumbing line from another EP2 bid, **use the EP2 label (Bidder A/B/C)**, never a name, and only if that bid itemized plumbing.
 
-### Carry-overs, unchanged
-
-No rent figures in any form: base, NNN, monthly, per-square-foot, burn rate, deposit as a figure or a multiple, total. Space is **"under 1,500 square feet."** Never name or characterize the Landlord. Disclaimer in the cut: *"I'm not a plumber and none of this is advice."*
-
-✅ **Plumbing costs, fixture counts, the interceptor price and the running build-out total are all disclosable.** None of them touch rent.
+**Unchanged from v1:** Trieu on camera per his consent · crop the title block off every plan sheet · the interceptor is described as a requirement, never as the Landlord's position · electrician: no name, no "fired" · no rent figures in any form · "under 1,500 square feet" · disclaimer in the cut: *"I'm not a plumber and none of this is advice."*
 
 ---
 
 ## Blanks
 
+### The money
+
 | Item | Value |
 |:--|:--|
-| **Total drains/fixtures in the space** | \_\_\_ ← the cold-open number |
-| Floor sinks | \_\_\_ |
-| Hand sinks | \_\_\_ |
-| Other fixtures (3-compartment, prep, mop, restroom) | \_\_\_ |
-| Feet of trench cut | \_\_\_ ft |
-| **Grease interceptor: type, size, location** | \_\_\_ gal · under-sink / in-floor / outdoor |
-| **Grease interceptor: installed cost** | $\_\_\_ |
-| Pumping frequency + cost per pump-out | every \_\_\_ · $\_\_\_ |
-| Backflow devices: count + total cost | \_\_\_ · $\_\_\_ |
-| Plumbing portion of the contract (if itemized) | $\_\_\_ |
-| Plumbing extras outside the contract | $\_\_\_ |
-| Underground plumbing inspection: date + result | \_\_\_ · pass / corrections |
-| **Running build-out total** (permits $3,315 + contract + extras to date) | $\_\_\_ ← the Chapter 5 payoff |
-| Days slipped to date (EP5 total + this week) | \_\_\_ |
-| Electrician status | \_\_\_ |
+| **Everything under the floor, total** | $\_\_\_ ← the title number |
+| **Comparison: next bid's plumbing line, or a quoted alternative** | $\_\_\_ ← only if real and itemized. Otherwise cut the comparison. |
+| Pipe + fittings (materials) | $\_\_\_ |
+| Concrete cutting + removal + patch | $\_\_\_ |
+| Labor (if itemized) | $\_\_\_ |
+| Fixtures (floor sinks, hand sinks, interceptor, backflow) | $\_\_\_ |
+| **Total spent on tools (rent + buy)** | $\_\_\_ |
+| Feet of trench | \_\_\_ ft |
+| Floor sinks: drawn first vs. built | \_\_\_ → \_\_\_ |
+| Grease interceptor: size / type / cost | \_\_\_ gal · \_\_\_ · $\_\_\_ |
+| Backflow devices: count / cost | \_\_\_ · $\_\_\_ |
+| Underground inspection: passed first time? | yes / no |
+| **Running build-out total** | $\_\_\_ |
+| Days slipped to date | \_\_\_ |
 
----
+### The tools: fill from what's actually on site. Cut rows you don't have; add ones you do.
 
-## ⚠️ Settle these before you film
-
-1. **🚨 Are the trenches still open on film day?** The whole episode depends on it. If the underground inspection passes Friday and concrete goes back Saturday morning, **film the trenches Friday evening on your phone, even rough.** Fallback if they're closed: EP5 b-roll of the slab cut, the stub-ups coming out of the new concrete, and the plan sheet overhead. Chapter 2's "before it's buried" beat then becomes *"this was buried two days ago, and here's what's under it."* That's weaker but workable.
-2. **Get the interceptor requirement in writing from Cedar Park's Industrial Pretreatment Program**, not just from the drawings: required size, location, pump-out frequency, and whether they want pump-out manifests kept on file. It's the most searchable fact in the episode, so it has to be right. (EP4's city invoice has the $25 Industrial Pre-Treatment line. Also check whether the city had you file a food-service Utility Connection Survey.)
-3. **Pull the spec sheet for every piece of equipment that touches water:** espresso machine, ice machine, pitcher rinser, dishwasher if any, water filtration. You need drain size and drain height for Chapter 2. Also confirm whether Cedar Park's cross-connection ordinance requires **annual testing** of your backflow devices. If it does, that's a recurring cost for Chapter 4.
+| # | Tool | Rent or own | Cost | Days used | What it saved |
+|:--|:--|:--|:--|:--|:--|
+| 1 | Walk-behind concrete saw (wet) | rent | $\_\_\_ | \_\_\_ | |
+| 2 | Electric breaker / jackhammer | rent | $\_\_\_ | \_\_\_ | |
+| 3 | Shovels, digging bar, buckets, wheelbarrow | own | $\_\_\_ | | |
+| 4 | Laser level or pipe laser (slope) | own / rent | $\_\_\_ | | |
+| 5 | PVC saw/cutter, deburring tool, primer + cement | own | $\_\_\_ | | |
+| 6 | Test ball / test plug (water test) | own | $\_\_\_ | | |
+| 7 | Shop vac, wet-cut water, respirators | own | $\_\_\_ | | |
+| 8 | Tape measure + your phone | own | $0 | | |
 
 ---
 
@@ -97,19 +109,16 @@ No rent figures in any form: base, NNN, monthly, per-square-foot, burn rate, dep
 
 | ID | Setup | Where | Purpose |
 |:--|:--|:--|:--|
-| **A** | Host, wide, in the space | The space | Promise, Chapter 5 |
-| **B** | Host, seated | Home | Chapter 4 backflow explainer, lease line |
-| **C** | Overhead | Table | Plumbing plan sheet (title block cropped), spec sheets, invoices |
-| **D** | Handheld, walking the trenches | The space | ★ The tour: every drain, pointed at |
-| **E** | Locked-off wide | The space, **taped tripod mark from EP5** | ★★ Weekly frame, week two |
-| **F** | B-roll | The space | Pipe in trench, level on the pipe, test plug, Trieu's hands, stub-ups |
-| **G** | ★★ High angle, straight down | Ladder or pole over the trenches | **The X-ray shot.** See below. |
+| **A** | Host, wide | The space | Promise, Chapter 5 |
+| **B** | Host, seated | Home | The license line, lease line |
+| **C** | Overhead | Table | Plan sheet (title block cropped), receipts |
+| **D** | Handheld, walking | The space | Trenches, stations |
+| **E** | Locked-off wide | EP5 tape mark | ★ Weekly frame |
+| **F** | B-roll | The space | Tools in use: wet cut, breaker, laser line, glue joint, water test |
+| **G** | High angle, straight down | Ladder or pole | ★ Trench network + EP3 floor plan overlay |
+| **H** | ★★ Overhead, **the tool line-up** | On the slab | **The cold open and the thumbnail.** Every tool laid out in a row on the concrete, a price tag card next to each. |
 
-**Setup G is this episode's signature visual.** Get as high and as straight-down as you safely can: a ladder, a painter's pole with the phone, or the taller scaffold from EP5 if it's still there. Shoot the whole trench network in one frame. In the edit, **overlay your EP3 floor plan on top at 50% opacity** so the viewer sees the bar, the ice machine and the sinks sitting exactly over the pipes that serve them. Nobody else can make that shot, because nobody else published their floor plan.
-
-**Setup E:** same tape mark, same height, same focal length as EP5. From here on, every episode opens on this frame.
-
-**Film the trenches with a tape measure in frame** (see Chapter 5, lesson 3). It's good television and it's also your as-built record.
+**Setup H is new and it's the signature shot.** Tools laid out in a straight line or a grid on the bare slab, dust and all. A small handwritten card beside each one: **RENT $\_\_\_** or **OWN $\_\_\_**. Shoot it from the ladder: locked-off, once with cards and once without. It opens the video, it's the thumbnail background, and it's the chapter card for Chapter 3.
 
 ---
 
@@ -119,195 +128,229 @@ No rent figures in any form: base, NNN, monthly, per-square-foot, burn rate, dep
 
 ---
 
-## COLD OPEN — 0:00–0:40
+## COLD OPEN — 0:00–0:35
 
-**SHOT 1** — Setup E. The locked-off wide. The floor is open.
+**SHOT 1** — Setup H. The tool line-up, overhead. Slow push-in or a slow tilt.
 
-**"This is my coffee shop's floor. In a few days that trench gets filled with concrete, and nobody will ever see what's in it again. So I'm going to show you now."**
+**"These are every tool it took to put the plumbing into my coffee shop."**
 
-**SHOT 2** — Setup D. Stand over the trench, pointing down.
+**SHOT 2** — Setup D. Standing at the end of the line-up, trench behind you.
 
-**"There are \_\_\_ drains in a space under 1,500 square feet. That's more than most houses. Because a coffee shop isn't really a coffee project. It's a plumbing project with an espresso machine on top."**
+**"Everything under this floor cost $\_\_\_. [If the comparison is real:] The other quote I had for the same work was $\_\_\_."**
 
-**"Every drain, why it's there, which ones the health department made me add, and whether a coffee shop needs a grease trap. The answer surprised me."**
+**"Here's how. The pipe wasn't the expensive part. It's the cheapest thing down there. It's the concrete, the hours, and doing things twice. I'll show you how we cut all three, every tool that did it, and the four things we paid full price for on purpose."**
 
-⚠️ **The fixture count lands inside twenty seconds.** It's the number that makes a stranger stop scrolling. If \_\_\_ turns out to be unimpressive, lead with the grease-trap question instead.
+⚠️ **The number lands inside 15 seconds.** If you don't have an honest comparison, drop that sentence. *"$\_\_\_ for all of it"* is still a strong open. **Never invent a "normal price" to beat.**
 
 ---
 
-## THE PROMISE — 0:40–1:15
+## THE PROMISE — 0:35–1:10
 
 **SHOT 3** — Setup A.
 
-**Three things, fast:**
+- **The lease, named:** **"Last week I said the lease was next. I didn't do it. The trenches are only open for a few days and the lease will keep. It's Episode 7, October 6th, pinned in the comments."**
+- **Where I am:** week two, \_\_\_ days behind, rent starts November 28th.
 
-- **The lease, named and owned:**
+**SHOT 4** — Setup B. **Drop the music.** ★ This line is not optional.
 
-    **"Last week I said I'd open my lease this time, and that I meant it. I didn't do it. The trenches are only open for a few days, and the lease will be exactly the same document in a week. It's Episode 7, October 6th, and it's pinned in the comments so you can hold me to it."**
+**"One rule before I show you anything. Cheap doesn't mean doing it yourself. Commercial plumbing in Texas needs a licensed plumber and a city inspection, and I'm not a plumber. [Trieu is / Trieu works under] a licensed plumber. Everything in this video is how we kept his hours down and the materials down. It's not how to skip him."**
 
-- **Where I am:** week two of construction. Days slipped so far: \_\_\_. Electrician: \_\_\_. Rent starts November 28th.
-- **What's in this video:** why a coffee shop cuts its floor, the floor sinks, the grease interceptor, the backflow devices, and what it all cost.
-
-**"I'm not a plumber, none of this is advice, and every number is off a real invoice."**
+**"I'm not a plumber, none of this is advice, and every number is off a receipt."**
 
 ---
 
-## CHAPTER 1 — WHY I CUT MY FLOOR · 1:15–3:00
+## CHAPTER 1 — WHERE PLUMBING MONEY ACTUALLY GOES · 1:10–2:30
 
-**SHOT 4** — Setup D, walking. Point at each spot as you name it.
+**SHOT 5** — Setup D, walking the trench.
 
-**Chapter card:** 1 — WATER IN, WATER OUT
+**Chapter card:** 1 — WHERE THE MONEY GOES
 
-**Walk the room. Name everything that uses water:** espresso machine · pitcher rinser · ice machine · three-compartment sink · prep sink · hand sinks (\_\_\_) · mop sink · water filtration · the restroom.
+**The 30-second why:**
 
-**"In a house the kitchen has one sink and a dishwasher. In a café, almost everything behind the bar either takes water in or sends water out. Usually both."**
+**"Water comes into a building under pressure, so those pipes can go anywhere, through walls and ceilings. Water leaves by gravity, so it needs a downhill. The only downhill in a building is under the floor. My floor is concrete. That's the whole problem."**
 
-**The one idea the whole episode rests on:**
+**SHOT 6** — Setup C, then on-screen graphic. The breakdown, built bar by bar.
 
-**"Water comes in under pressure. Pressure doesn't care where the pipe goes, so supply lines can run in the walls and the ceiling. Water goes out by gravity. Gravity needs a downhill, and the only downhill in a building is under the floor."**
+**"Here's where my money went under this floor."**
 
-**"My floor is concrete. So every drain behind that bar means cutting concrete."**
+```
+Concrete: cut, break, haul, patch   $___
+Labor                               $___
+Fixtures & devices                  $___
+Pipe & fittings                     $___   ← smallest
+```
 
-**SHOT 5** — Setup F. A level on the pipe. Bubble just off center.
+**"Pipe and fittings are the smallest line. You can't save real money buying cheaper pipe. You save it by cutting less concrete, spending fewer hours, and never digging the same trench twice."**
 
-**"And the pipe can't just go downhill. It needs a set slope. A pipe this size drops about a quarter inch for every foot it runs. Too flat and it clogs, too steep and the water outruns the solids. Across the length of this bar, that adds up."**
+★ **That's the thesis. Everything after this is one of those three.**
 
-⚠️ *Have Trieu confirm the slope on your actual pipe sizes before you film this line. The code number depends on pipe diameter (roughly ¼" per foot for small pipe, ⅛" for 3" and up). If you're not sure, say "a set slope" and skip the number.*
-
-**The callback that makes this a channel, not a one-off:**
-
-**"This is why the plumber mattered so much when I picked a contractor in Episode 5. Every one of these trenches is a decision somebody made on paper in Episode 3. When the person who drew it and the person who digs it are the same guy, nothing gets lost in between."**
-
-### ★ Optional, 30 seconds: Trieu on camera
-
-Only if he agreed. Ask him one question, and don't script his answer:
-
-> *"What's the mistake you see most in restaurant plumbing?"*
-
-Keep it even if the answer is short or dry. A second voice at the 2:30 mark is a retention bump, and it's the first time viewers hear from the person they've heard about for two episodes.
+⚠️ *If your breakdown doesn't come out with pipe as the smallest line, say what's actually true. The thesis becomes "concrete and labor are the big lines."*
 
 ---
 
-## CHAPTER 2 — FLOOR SINKS: THE ICE MACHINE ISN'T ALLOWED TO TOUCH THE SEWER · 3:00–5:30
+## CHAPTER 2 — SAVE #1: THE CHEAPEST TRENCH IS THE ONE YOU DON'T DIG · 2:30–4:15
 
-★★ **The most coffee-specific idea in the episode. Almost nobody outside the industry knows it.**
+**SHOT 7** — Setup G. **The X-ray shot, EP3 floor plan overlaid.**
 
-**SHOT 6** — Setup D. Kneel at a floor-sink rough-in.
+**Chapter card:** 2 — DRAW IT SHORT
 
-**Chapter card:** 2 — FLOOR SINKS
+**"The cheapest plumbing decision I made happened at a table, months ago, in Episode 3."**
 
-**"This is going to be a floor sink. A square drain set into the floor, flush with the tile. You've walked past a hundred of them behind a counter and never noticed. I have \_\_\_."**
+**Three moves. One line each, then show it on the overlay:**
 
-**"Here's why they exist. My ice machine makes water. Melted ice has to go somewhere. And the obvious thing, piping it straight into the drain, is not allowed."**
+**1 · Put the wet stuff together.**
+**"Every sink, the espresso machine, the ice machine: all on one side, close together. Every foot of trench you don't draw is a foot of concrete nobody cuts, breaks, hauls out and pours back."**
+*On screen:* \_\_\_ ft of trench. *(If you know it: "The first layout would have been about \_\_\_ ft.")*
 
-**SHOT 7** — Setup F. Hand held in the gap between an imaginary pipe end and the floor-sink rim. Or, if the equipment is on site, the real pipe.
+**2 · Share the floor sinks.**
+**"Several equipment drains can empty into one floor sink, as long as each one has its own air gap and the sink is big enough. I drew \_\_\_ floor sinks. We built \_\_\_."**
+⚠️ *Only say this if it's true on your job, and have Trieu confirm the sharing is to code. If you didn't consolidate, cut move 2.*
 
-**"Because if the sewer ever backs up and that pipe is connected, sewage goes up the pipe and into the machine that makes the ice I put in your drink."**
-
-Beat.
-
-**"So the drain pipe stops above the floor sink and pours into it through open air. That gap is the whole point. Sewage can climb a pipe. It can't jump across air."**
-
-On-screen text: **SEWAGE CAN CLIMB A PIPE. IT CAN'T JUMP ACROSS AIR.**
-
-**Then, fast, what drains this way in your shop:** ice machine · espresso machine drain · pitcher rinser · three-compartment sink ⚠️ *(confirm against your plans. Say only what's true for your drawings).*
-
-### ★ The layout lesson
-
-**SHOT 8** — Setup G. **The X-ray shot, floor plan overlaid.**
-
-**"And this is the part I didn't understand when I was drawing my floor plan. The floor sink location decides where the equipment goes. Not the other way around. The ice machine goes where a floor sink can reach it. The espresso machine goes where a drain can reach it. Once the concrete goes back, every one of those decisions is permanent."**
-
-**"In Episode 3 I redrew my layout \_\_\_ times. I thought I was arranging furniture. I was placing drains."**
-
-★ **Strongest callback in the episode.** Hold the overlay on screen through the whole line.
-
-**Cost beat:** **"Each floor sink is about $\_\_\_ installed, and I have \_\_\_ of them."**
-
----
-
-## CHAPTER 3 — DOES A COFFEE SHOP NEED A GREASE TRAP? · 5:30–7:45
-
-★★ **The searchable question. Answer it in the first sentence, then earn it.**
-
-**SHOT 9** — Setup D. Stand at the interceptor location.
-
-**Chapter card:** 3 — THE GREASE TRAP
-
-**"Does a coffee shop need a grease trap? I assumed no. We don't have a fryer. We don't have a grill. We make coffee. My city said yes, and here's why."**
-
-Beat.
-
-**"Milk is fat. Every steaming pitcher that gets rinsed, every jug that gets washed, every bit of oat milk and whole milk down the sink. That's grease going into the city sewer. Enough coffee shops doing that and the city has a clogged main."**
-
-**SHOT 10** — Setup C. Overhead, the EP4 city invoice. Circle one line.
-
-**"And I actually paid for this in Episode 4 without knowing it. My city permit had a twenty-five-dollar line called Industrial Pre-Treatment. I read right past it. That twenty-five dollars was the city telling me a grease interceptor was coming."**
-
-★ **Great detail. It rewards anyone who watched EP4 and teaches everyone else to read their invoice.**
-
-**What yours actually is.** Say it plainly:
-
-**"Mine is a \_\_\_-gallon \_\_\_ interceptor, and it's going \_\_\_. Installed, it cost $\_\_\_."**
-
-- *If it's small and under-sink:* **"Small, because we don't cook. If we had a kitchen, this could be an in-ground tank in the parking lot and a much bigger number."**
-- *If it's in-ground or outside:* **"Big, and outside, and it needed landlord approval. This was the single most expensive drain in the building."** ⚠️ *Requirement only. Never the Landlord's position.*
-
-**The part nobody tells you: it's not a purchase, it's a subscription.**
-
-**"And you don't just buy it. You have to get it pumped out. Mine every \_\_\_, at about $\_\_\_ a visit, and the city can ask to see the records. So the grease trap is a line on my monthly budget for as long as I'm open."**
-
-⚠️ *Fill the frequency and cost from the Pretreatment Program or a pump-out quote. Don't guess. If you don't have them, cut the numbers and keep the sentence.*
-
-**The honest scope line:**
-
-**"Whether yours needs one, and what size, is your city's call, not a rule of coffee. Some cities require it for any café, some don't. Call your city's pretreatment program before you sign a lease. I'll tell you why that's before you sign a lease in a minute."**
-
-(That's the setup for Chapter 5, lesson 2, and the lease bridge.)
-
----
-
-## CHAPTER 4 — BACKFLOW: THE COMMENT FROM EPISODE 4, IN REAL LIFE · 7:45–9:15
-
-**SHOT 11** — Setup B, seated, then F: the actual devices, if they're on site.
-
-**Chapter card:** 4 — BACKFLOW
-
-**"In Episode 4 the health department sent back my plans with this comment: backflow prevention at every point of use. And they named them: the pitcher rinser, the ice machine, the coffee machines. Here's what that looks like when it stops being a comment and becomes a part."**
-
-**Show one device. Hold it up.**
-
-**"Floor sinks protect the equipment from the sewer. This protects the city's water from my equipment. If pressure drops on the street, a water main break or a fire hydrant opening, water can get pulled backwards out of whatever's connected. My espresso machine has water sitting in it at two hundred degrees. That shouldn't end up in my neighbor's tap."**
-
-**"So every one of those gets one of these. I have \_\_\_. Total, about $\_\_\_."**
-
-⚠️ **If Cedar Park requires annual testing:**  
-**"And like the grease trap, it's not one and done. They get tested every year by a certified tester. Another subscription."**  
-*If there's no annual testing requirement for your devices, cut this line entirely. Don't hedge it on camera.*
+**3 · Go to where the sewer already is.**
+**"Before anything got drawn, we found where the building's sewer line already comes in, and put the plumbing wall next to it. The farther your drains are from that point, the more floor you cut."**
+⚠️ *Confirm this is how your layout was actually decided. If the sewer location didn't drive it, say "the closer your drains are to where the sewer comes in, the less floor you cut" as general advice, not as your story.*
 
 **Close the chapter:**
 
-**"Two different problems. Floor sinks keep the sewer out of my equipment. Backflow devices keep my equipment out of the water supply. Almost every rule behind a coffee bar is one of those two sentences."**
-
-★ **That last line is the episode's thesis in 20 words. Say it slowly.**
+**"In Episode 3 I thought I was arranging furniture. I was pricing concrete."**
 
 ---
 
-## CHAPTER 5 — WHAT IT COST, AND 3 THINGS I'D DO DIFFERENTLY · 9:15–11:15
+## CHAPTER 3 — THE TOOLS · 4:15–8:30
 
-**SHOT 12** — Setup C. Overhead. Build the number on screen.
+★★ **The centerpiece and the reason people click. Four minutes, one station per tool.**
+
+**SHOT 8** — Setup H, the line-up. Then cut to each station.
+
+**Chapter card:** 3 — THE TOOLS
+
+**The rule, up front, so every station pays it off:**
+
+**"Here's the rule we used for every tool: buy what you'll use every day, rent what you'll use once."**
+
+On-screen text: **BUY WHAT YOU USE EVERY DAY. RENT WHAT YOU USE ONCE.**
+
+### Station format: same three beats every time, 20–40 seconds each
+
+1. **What it does.** Setup F: the tool working, in the hands of Trieu or his crew.
+2. **Rent or own, and what it cost.** Price card in frame.
+3. **What it saved.** One sentence.
+
+Repetition is the point. By station three, viewers know the rhythm and they stay for the next one.
+
+### 1 · Walk-behind concrete saw (rented)
+
+**"This cuts the slab. It's the most expensive tool here and we used it for \_\_\_ days, so we rented it. $\_\_\_."**
+
+**"Two things. One: it cuts wet. There's water running on the blade the whole time, because dry-cutting concrete makes silica dust, and you do not want that in your lungs. That's why he's wearing a respirator. Two: straight, narrow cuts. Every inch wider is more concrete to break and more to pour back."**
+
+**EP5 callback:** **"And yes, this is the replacement. The first one broke in the middle of a cut in week one."**
+
+### 2 · Electric breaker / jackhammer (rented)
+
+**"The saw makes the lines. This breaks out what's between them. Rented, $\_\_\_. The narrower the saw cuts, the less of this you're paying for."**
+
+### 3 · Shovels, digging bar, buckets (owned)
+
+**"Not exciting. Owned already. Cost me nothing new. The part people forget: all that concrete and dirt has to go somewhere. Hauling it out was $\_\_\_."** *(Cut the last sentence if it wasn't a separate cost.)*
+
+### 4 · Laser level (owned / rented)
+
+**SHOT 9** — Setup F. The laser line on the pipe, or a level on the pipe with the bubble just off center.
+
+**"This is the tool that saves the most money and it's the least impressive thing here. Drain pipe needs a set slope. Too flat and it clogs, too steep and the water outruns the solids. The laser sets that slope once, across the whole trench. Get it wrong and you find out after the concrete's back, and then you're cutting the same trench twice."**
+
+⚠️ *Have Trieu say the slope for your pipe size in his own words if he'll do it. It's more credible from him.*
+
+### 5 · PVC saw, deburring tool, primer and cement (owned)
+
+**"The pipe itself. PVC, which my city's code allows under the slab, and it's much cheaper than the alternative. Cutting and gluing it takes about ten dollars' worth of tools. The skill is in the prep: cut square, clean the edge, primer, then cement. A joint done in a hurry is the one that leaks under your floor in three years."**
+
+⚠️ *Confirm with Trieu that the drain lines under your slab are PVC. If any are cast iron, say so and say why.*
+
+### 6 · Test ball / test plug (owned)
+
+★ **This is the station that surprises people. Give it room.**
+
+**SHOT 10** — Setup F. Plug in, pipe filled, water sitting still.
+
+**"This might be the cheapest tool on this floor and the one that saves the most. Before the inspector comes, we plug the line, fill it with water, and let it sit. If the level drops, something leaks, and we find it now, not the inspector."**
+
+**"A failed inspection costs you a re-inspection, and more importantly it costs you days. And you know what days cost me."** *(Nov 28 callback. No dollar figure.)*
+
+**"Test it before the inspector does."**
+
+### 7 · Shop vac, water for the saw, respirators (owned)
+
+**"Not optional, and not where you save money. Concrete dust is a real health risk. It's the one line on this list I'd never cut."**
+
+### 8 · A tape measure and your phone ($0)
+
+**SHOT 11** — Setup F. Tape measure from the wall to a pipe, in frame.
+
+**"Last one, and it's free. Before the concrete goes back, film every trench with a tape measure from the nearest wall. In five years, when a drain backs up, this is the only map anyone will have. Otherwise, somebody's cutting your floor open looking for it."**
+
+### ★ Optional, 30 seconds: Trieu
+
+Only with his consent. One question, don't script the answer:
+
+> *"What's the most expensive mistake owners make with plumbing?"*
+
+Put it right after station 8, before you total the tools. A second voice at the 8-minute mark is the retention bump this chapter needs.
+
+**Close the chapter.** **SHOT 12** — Setup H, the line-up with every price card.
+
+**"Everything on this floor: $\_\_\_ in tools, rented and bought. Most of what they saved wasn't money on the day. It was never having to do something twice."**
+
+---
+
+## CHAPTER 4 — WHERE WE DIDN'T GO CHEAP · 8:30–10:15
+
+★★ **The trust chapter. Without it the video is advice an inspector would hate.**
+
+**SHOT 13** — Setup D, then B.
+
+**Chapter card:** 4 — FULL PRICE, ON PURPOSE
+
+**"Four things under this floor we paid full price for, and I'd tell anybody to do the same."**
+
+### 1 · A licensed plumber and the permit
+**"Already said it. Not negotiable, and it's the law."** Five seconds. Move on.
+
+### 2 · Floor sinks with an air gap
+**SHOT 14** — Setup F. Hand in the gap above a floor-sink rough-in.
+
+**"My ice machine can't drain straight into the sewer. It drains into a floor sink through a gap of open air, because if the sewer ever backs up, it can't reach the machine that makes your ice. Sewage can climb a pipe. It can't jump across air."**
+
+On-screen text: **SEWAGE CAN CLIMB A PIPE. IT CAN'T JUMP ACROSS AIR.**
+
+### 3 · Backflow devices
+**"The health department made me put a backflow device on the pitcher rinser, the ice machine and the coffee machines. That was Episode 4. It keeps water from my equipment from getting pulled back into the city's supply. \_\_\_ devices, $\_\_\_."**
+
+### 4 · The grease interceptor, and "does a coffee shop need a grease trap?"
+**SHOT 15** — Setup D at the interceptor location, then C: the EP4 invoice, one line circled.
+
+**"Does a coffee shop need a grease trap? I assumed no. We don't fry anything. My city said yes. Milk is fat. And I'd actually been told in Episode 4: my city permit had a twenty-five-dollar line called Industrial Pre-Treatment. That was the grease trap, coming."**
+
+**"Mine is \_\_\_ gallons, \_\_\_, and it cost $\_\_\_. And it gets pumped every \_\_\_ at about $\_\_\_, so it's a subscription, not a purchase."**
+
+**"Whether you need one is your city's call. Call your city's pretreatment program before you sign a lease."**
+
+**Close the chapter.** **Slow, no music:**
+
+**"Cheap is fine. Failing inspection is the most expensive thing in this whole video."**
+
+---
+
+## CHAPTER 5 — THE BILL, AND WHAT I'D DO AGAIN · 10:15–11:45
+
+**SHOT 16** — Setup C, overhead. Build the numbers on screen.
 
 **Chapter card:** 5 — THE BILL
 
-**"Everything under this floor: $\_\_\_. \_\_\_ of that was in my contract. $\_\_\_ wasn't."**
+**"Everything under the floor: $\_\_\_. Tools: $\_\_\_ of that."** *(If real:)* **"Against the other quote: $\_\_\_ less."**
 
-**On screen, held 3 seconds:** UNDER THE FLOOR: $\_\_\_ · \_\_\_ DRAINS · UNDER 1,500 SF
-
-### ★★ The running total: new, and it stays
-
-**"And I'm going to start doing this every episode: the running total, what this build has cost so far."**
-
-**On screen, built row by row:**
+**The running total.** New this episode, and it stays every week.
 
 ```
 Permits & plan review (Ep 4)     $3,315
@@ -320,51 +363,31 @@ BUILD-OUT TO DATE                $___
 
 **"That number only goes up. I'll show it to you every week until I open."**
 
-📌 *This is the EP5 channel note put into practice: one running number that ties every episode to the same search family and gives people a reason to come back. **Build the graphic once as a reusable template** so it's a 5-minute update from now on.*
+**Days:** **"\_\_\_ days behind. Rent still starts November 28th."** Never a dollar figure on the days.
 
-**Days:** **"Days slipped so far: \_\_\_. Rent still starts November 28th."** No dollar figure on the days. Ever.
+### Three things I'd tell anyone. **SHOT 17**, Setup A.
 
-### What I'd do differently: three, fast
+**1 · "The cheapest plumbing decision happens at the drawing table. Put the wet stuff together before anybody picks up a saw."**
 
-**SHOT 13** — Setup A, wide, in the space.
+**2 · "Rent what you use once. Buy what you use every day. And test it before the inspector does."**
 
-**1 · Get the equipment spec sheets before anybody draws a drain.**
+**3 · "Call your city about a grease trap before you sign the lease. A big interceptor in the wrong space isn't a plumbing problem. It's a lease problem."** → **"Which is exactly what next week is about."**
 
-**"Every drain in this floor follows a piece of equipment. The drain size, the height it comes out of the machine, whether it needs a floor sink. That's all on a spec sheet. If you haven't picked your espresso machine and your ice machine before the plumbing plan is drawn, you're guessing, and a guess becomes concrete."**
-
-**2 · ★★ Call the city's pretreatment program before you sign your lease.**
-
-**"If your city requires a big in-ground interceptor and your space has nowhere to put one, or your landlord won't allow it, you might not be able to open a café there at all. At minimum, it's one of the biggest numbers in the build. That's not a construction question. It's a lease question."**
-
-Beat.
-
-**"Which is exactly what next week is about."**
-
-★ **This is the honest bridge to the lease episode. It turns the deferral into a setup.**
-
-**3 · Film it before it's buried. With a tape measure in the frame.**
-
-**SHOT 14** — Setup F. Tape measure stretched from a wall to a pipe, in frame.
-
-**"This is the last time anybody sees these pipes. In five years, when a drain backs up, the plumber is going to ask where the line runs, and without this nobody will know. Film every trench with a tape measure from the nearest wall. It's free, it takes ten minutes, and it's the only as-built drawing you'll ever actually have."**
-
-★ **The most useful line in the episode for anyone building anything, not just a café. Give it air.**
+★ **Lesson 3 is the honest bridge to the lease episode.**
 
 ---
 
-## CLOSE — 11:15–11:45
+## CLOSE — 11:45–12:15
 
-**SHOT 15** — Setup E. The locked-off wide, matching Shot 1. If the concrete is back by now, even better: same frame, trenches gone. **Hold three seconds longer than feels right.**
+**SHOT 18** — Setup E, the weekly frame. **Hold three seconds longer than feels right.**
 
-**"Where I am: \_\_\_ drains in, underground inspection \_\_\_, $\_\_\_ spent to date, and \_\_\_ days behind."**
+**"Where I am: plumbing in the ground, underground inspection \_\_\_, $\_\_\_ spent to date, \_\_\_ days behind."**
 
-**"Episode 7 is October 6th. My actual lease, clause by clause. Including the two deadlines in it that can end this whole thing."**
+**"Episode 7, October 6th: my actual lease, clause by clause, including the two deadlines that can end this whole thing."**
 
 **Comment question:**
 
-**"If you own a café or a restaurant: what's the one thing under your floor you'd do differently?"**
-
-*(That question pulls in experienced owners, and their answers become research for later episodes.)*
+**"What's the one thing you paid full price for in your build-out, and were glad you did?"**
 
 ---
 
@@ -372,26 +395,27 @@ Beat.
 
 | # | Time | Setup | Content |
 |:--|:--|:--|:--|
-| 1 | 0:00 | E | ★★ Weekly frame, floor open, "before it's buried" |
-| 2 | 0:15 | D | ★ The fixture count, standing over the trench |
-| 3 | 0:40 | A | Promise + the lease, named, with a date |
-| 4 | 1:15 | D | Walking: everything that uses water |
-| 5 | 2:05 | F | Level on the pipe: gravity + slope |
-| — | 2:30 | — | *Optional: Trieu, 30 sec* |
-| 6 | 3:00 | D | ★ Floor sink rough-in |
-| 7 | 3:40 | F | ★★ The air gap: "can't jump across air" |
-| 8 | 4:30 | G | ★★ X-ray shot + EP3 floor plan overlay |
-| 9 | 5:30 | D | ★★ "Does a coffee shop need a grease trap?" |
-| 10 | 6:15 | C | ★ The $25 Industrial Pre-Treatment line |
-| 11 | 7:45 | B/F | Backflow device, held up |
-| 12 | 9:15 | C | ★★ The bill + running total graphic |
-| 13 | 10:05 | A | Three things I'd do differently |
-| 14 | 10:50 | F | ★ Tape measure in the trench |
-| 15 | 11:15 | E | Close, matches shot 1 |
+| 1 | 0:00 | H | ★★ Tool line-up, overhead |
+| 2 | 0:10 | D | ★ The number (+ comparison if real) |
+| 3 | 0:35 | A | Lease, named, with a date |
+| 4 | 0:50 | B | ★★ "Cheap doesn't mean doing it yourself" (no music) |
+| 5 | 1:10 | D | Gravity, 30 sec |
+| 6 | 1:40 | C | ★ Where the money goes: pipe is the smallest line |
+| 7 | 2:30 | G | ★★ X-ray overlay: draw it short |
+| 8 | 4:15 | H→F | ★★ The tools: rent vs. buy rule |
+| — | 4:30–8:00 | F | Stations 1–8 (saw, breaker, shovels, laser, PVC, **test plug**, dust, tape measure) |
+| — | 8:00 | — | *Optional: Trieu, 30 sec* |
+| 12 | 8:15 | H | Line-up with every price card |
+| 13 | 8:30 | D/B | Full price on purpose |
+| 14 | 9:00 | F | The air gap |
+| 15 | 9:30 | D/C | Grease trap + the $25 line |
+| 16 | 10:15 | C | ★★ The bill + running total |
+| 17 | 11:00 | A | Three things |
+| 18 | 11:45 | E | Close |
 
-**15 shots · 7 setups · ~1.5 hr in the space (while the trenches are open) + 20 min sit-down + overheads**
+**~18 shots · 8 setups · ~2 hr on site (tool stations need the crew working) + 20 min sit-down + overheads**
 
-⚠️ **If time runs short, cut in this order:** Trieu's optional segment → the Chapter 4 annual-testing line → Chapter 1's walking list (let b-roll carry it). **Don't cut:** the air gap, the X-ray overlay, the grease-trap answer, the running total, or the tape-measure line.
+⚠️ **If time runs short, cut in this order:** Trieu → station 3 (shovels) → station 7 (fold the dust line into station 1) → Chapter 2 move 3. **Never cut:** the license line, the wet-cut/respirator beat, the test-plug station, or Chapter 4.
 
 ---
 
@@ -399,60 +423,66 @@ Beat.
 
 ## Titles
 
-**Same rule as EP5: the exact search phrase goes first.**
+1. **Coffee Shop Plumbing on a Budget: Every Tool We Used (and What It Cost)** ← primary
+2. **How We Saved Money on Coffee Shop Plumbing: $\_\_\_ for Everything Under the Floor**
+3. **Coffee Shop Plumbing Cost: $\_\_\_ and the Tools That Kept It There**
+4. **Does a Coffee Shop Need a Grease Trap? What We Paid For (and What We Didn't)**
 
-1. **Coffee Shop Plumbing: What Goes Under the Floor (Before It's Buried)** ← primary
-2. **Does a Coffee Shop Need a Grease Trap? Here's What's Under My Floor**
-3. **Coffee Shop Plumbing Cost: $\_\_\_ for Everything Under the Floor**
-4. **I Cut Up My Coffee Shop's Concrete Floor. Here's Why.**
+- **#1** keeps the search phrase first and promises the tools, which is what you're filming.
+- **#2** leads with money. Use it if your number is genuinely low, and it's the CTR swap-in after two weeks if #1 is under 4%.
+- **#3** is closest to EP5's winning pattern (query phrase + real number).
+- **#4** is a fallback if grease-trap autocomplete turns out stronger than everything else.
 
-- **#1 is the primary.** Query phrase first. "Before it's buried" adds urgency without clickbait, and it's literally true.
-- **#2 is the pre-publish swap** if your autocomplete check shows "coffee shop grease trap" completing and "coffee shop plumbing" not. It's also the two-week swap-in if CTR is under 4%.
-- **#3 is for when the dollar figure is striking**, meaning it surprises people in either direction. Money has carried every one of your best-performing framings.
-- **#4 is the best sentence and the worst title.** It has no search phrase in it. Keep it for the thumbnail mood, not the title.
-
-🚫 **Never in the lead title:** "week two," "construction update," "vlog," "episode 6," "rough-in." That's contractor vocabulary, not what a café owner types.
+🚫 **Never in the title:** "DIY," "do it yourself," "cheap" on its own, "hack." The first two invite exactly the wrong viewer and the wrong inspector reaction. The last two read as clickbait next to a licensed trade.
 
 ## Thumbnail
 
-You crouched at the edge of the open trench, one hand on the pipe, looking at camera. Flat expression, same restraint as EP4 and EP5. The high-angle trench network behind or beside you if you can composite it.
+The Setup H line-up shot from above, with you kneeling at one end. Same flat expression as EP4 and EP5.
 
 ```
-UNDER THE FLOOR
-    $___
+PLUMBING
+  $___
 ```
 
-If you use title #2 instead: **GREASE TRAP?** in place of UNDER THE FLOOR, same layout.
+Price cards visible on the tools. The cards do the storytelling, so the text stays two words.
 
 ## Description
 
 ```
-Coffee shop plumbing, filmed before the concrete goes back: every drain under
-the floor of my café, why each one is there, and what it all cost. ___ drains
-in under 1,500 square feet in Cedar Park, Texas.
+Coffee shop plumbing on a budget: everything under my café floor cost $___,
+and here's every tool we used, what each one cost, and whether we rented it
+or bought it. Under 1,500 square feet in Cedar Park, Texas.
 
-A coffee shop is a plumbing project with an espresso machine on top. Water
-comes in under pressure, but it leaves by gravity — and the only downhill in
-a building is under the floor.
+Cheap doesn't mean do-it-yourself. Commercial plumbing in Texas requires a
+licensed plumber and a city inspection. This is how we kept the hours and
+materials down, not how to skip either.
 
-FLOOR SINKS
-The ice machine isn't allowed to connect directly to the sewer. It drains into
-a floor sink through an air gap, so a sewer backup can't reach the machine
-that makes your ice. Floor sink locations decide where equipment goes, not the
-other way around.
-___ floor sinks · about $___ each installed
+WHERE THE MONEY GOES
+Concrete (cut, break, haul, patch)  $___
+Labor                               $___
+Fixtures & devices                  $___
+Pipe & fittings                     $___   ← smallest
 
-DOES A COFFEE SHOP NEED A GREASE TRAP?
-Mine does. Milk is fat. My city required a ___-gallon ___ interceptor:
-$___ installed, pumped every ___ at about $___. Whether yours needs one is up
-to your city — call your city's pretreatment program BEFORE you sign a lease.
+SAVE #1 — DRAW IT SHORT
+Put the wet fixtures together. Share floor sinks where code allows. Put the
+plumbing near where the sewer already comes in. ___ ft of trench.
 
-BACKFLOW PREVENTION
-Required by the health district at every point of use: pitcher rinser, ice
-machine, coffee machines (see Episode 4). ___ devices, $___ total.
+THE TOOLS — buy what you use every day, rent what you use once
+1. Walk-behind concrete saw (wet-cut) — rented, $___
+2. Electric breaker — rented, $___
+3. Shovels, digging bar, buckets — owned
+4. Laser level — sets the drain slope once
+5. PVC saw, deburring tool, primer + cement — owned, ~$___
+6. Test plug — water-test before the inspector does
+7. Shop vac, water, respirators — not optional (concrete silica dust)
+8. Tape measure + phone — film every trench before it's buried
+Tools total: $___
 
-WHAT IT COST
-Under the floor: $___ (___ in contract, $___ outside it)
+WHERE WE PAID FULL PRICE
+- A licensed plumber and the permit
+- Floor sinks with an air gap (sewage can climb a pipe, not jump air)
+- Backflow devices: ___ at $___ (see Episode 4)
+- Grease interceptor: ___ gal, $___, pumped every ___ at ~$___
 
 BUILD-OUT TO DATE
 Permits & plan review (Ep 4)   $3,315
@@ -461,110 +491,94 @@ Week-one extras (Ep 5)         $___
 Plumbing extras (Ep 6)         $___
 Total so far                   $___
 
-3 THINGS I'D DO DIFFERENTLY
-1. Get equipment spec sheets before anyone draws a drain.
-2. Call your city's pretreatment program before you sign the lease.
-3. Film every trench with a tape measure in frame before it's buried.
-
 Next: my actual lease, clause by clause — Episode 7, October 6.
 
 Cedar Park, TX · @timatoriri
 
 CHAPTERS
-0:00  Everything under the floor
-0:40  What's in this video
-1:15  Why a coffee shop cuts its floor
-3:00  Floor sinks and the air gap
-5:30  Does a coffee shop need a grease trap?
-7:45  Backflow prevention
-9:15  What it cost + build-out to date
-11:15 What's next
+0:00  Every tool, and what it cost
+0:35  The one rule
+1:10  Where plumbing money actually goes
+2:30  Save #1: draw it short
+4:15  The tools
+8:30  Where we didn't go cheap
+10:15 The bill + build-out to date
+11:45 What's next
 
-I'm not a plumber and none of this is advice. Plumbing, pretreatment and
-health requirements vary by city, county and state.
+I'm not a plumber and none of this is advice. Commercial plumbing requires a
+licensed plumber, a permit and inspection. Requirements vary by city, county
+and state. No sponsorships; tools shown are what was on site.
 ```
 
-**Tags:** coffee shop plumbing, does a coffee shop need a grease trap, coffee shop grease trap, cafe plumbing, floor sink, grease interceptor coffee shop, backflow prevention coffee shop, coffee shop build out cost, coffee shop build out, commercial plumbing under slab, opening a coffee shop
+**Tags:** coffee shop plumbing, coffee shop plumbing cost, coffee shop build out cost, save money opening a coffee shop, does a coffee shop need a grease trap, grease interceptor coffee shop, concrete saw rental, plumbing under slab commercial, floor sink, backflow prevention coffee shop, opening a coffee shop
 
-⚠️ **Order matters.** The first three are the ones you're trying to win. The build-out tags tie this episode to EP5's query family on purpose.
+## Pinned comment
 
-## Pinned comment (post at publish)
-
-> The lease episode is **Episode 7 — Tuesday, October 6.** Hold me to it.  
-> What's the one thing under your floor you'd do differently?
+> The lease episode is **Episode 7 — Tuesday, October 6.** Hold me to it.
+> What's the one thing you paid full price for in your build-out, and were glad you did?
 
 ---
 
 # FILM DAY CHECKLIST
 
-**Before**
+**Before: blockers**
 
-- ☐ 🚨 **Confirm with Trieu when concrete goes back.** Film the trenches before then, even if it's a phone on a Friday night.
-- ☐ 🚨 **Confirm the lease script exists** before you say "October 6th" on camera
-- ☐ Trieu's consent on tape (if not already done in EP5)
-- ☐ Interceptor size, location, cost and pump-out schedule, confirmed with Cedar Park Industrial Pretreatment
-- ☐ Spec sheets for espresso machine, ice machine and pitcher rinser: drain sizes and heights
-- ☐ Backflow device count and cost. Ask the city whether annual testing applies.
-- ☐ Slope figure confirmed by Trieu for your pipe sizes
-- ☐ All blanks filled, **especially the running total**
-- ☐ Plumbing plan sheet printed with the **title block cropped**
-- ☐ EP4 city invoice printed for the $25 line
-- ☐ EP3 floor plan exported for the overlay, at the same orientation as the high-angle shot
-- ☐ Setup E: tripod on the EP5 tape mark, same height, same lens
+- ☐ 🚨 **Who holds the plumbing license and pulled the permit?** Know the answer before you roll.
+- ☐ 🚨 **Trenches still open?** If not, the tool stations can still be filmed as demonstrations on a scrap of slab or a staged section. Say so honestly on camera.
+- ☐ 🚨 Lease script exists before you say "October 6th"
+- ☐ Trieu's consent on tape (if not done in EP5), **including his crew** if they're on camera
+
+**Before: prep**
+
+- ☐ Tool table filled: rent or own, cost, days
+- ☐ Money breakdown filled. Check whether pipe really is the smallest line.
+- ☐ Comparison number: real and itemized, or cut it
+- ☐ Price cards written, one per tool (RENT $\_\_\_ / OWN $\_\_\_)
+- ☐ Confirm with Trieu: PVC under slab? floor sinks shared? slope for your pipe size?
+- ☐ Grease interceptor and backflow numbers
+- ☐ Plan sheet with title block cropped · EP4 invoice for the $25 line · EP3 floor plan for the overlay
 
 **On set**
 
-- ☐ Four hook takes. The fixture count has to land in the first twenty seconds.
-- ☐ **Setup G high-angle shot:** three passes, locked-off, no people in the trenches for at least one of them
-- ☐ Tape measure in frame on every trench: your as-built record *and* Shot 14
-- ☐ Hard hats and eye protection visible if work is going on
-- ☐ 3× the b-roll you think you need: pipe, fittings, level, test plugs, hands
-- ☐ 30s room tone
+- ☐ **Setup H line-up**, locked-off overhead, with cards and without
+- ☐ Saw footage **cutting wet, operator in a respirator**. No dry cuts in the cut.
+- ☐ You never operate a tool on camera
+- ☐ Each station: the tool working (F) + price card in frame + your one line
+- ☐ Test plug: film the water sitting still long enough to read as "holding"
+- ☐ Tape measure in frame on every trench
+- ☐ Four hook takes · 30s room tone
 
 **Before publish**
 
-- ☐ Plan sheet title block not visible in any frame. Check full-screen twice.
-- ☐ Any electrician mention: no name, no company, no "fired"
-- ☐ Nothing characterizing the Landlord, especially around the interceptor
-- ☐ No rent figure, no deposit figure or multiple, no dollar value on days slipped
-- ☐ Disclaimer in the cut, not just the description
-- ☐ Pinned comment with the October 6 date posted at publish
+- ☐ License line is in the cut, not trimmed for time
+- ☐ No dry cutting, no missing PPE, in any frame, b-roll included
+- ☐ No "DIY" in the title, thumbnail, description or tags
+- ☐ No implied sponsorship; any affiliate links disclosed
+- ☐ Title block, electrician, Landlord, rent rules: all the v1 checks
+- ☐ Disclaimer in the cut · pinned comment posted
 
 ---
 
-## Research notes (Sep 25, 2026)
+## Research notes (updated Sep 27, 2026)
 
-**Supply: what currently answers these questions**
-
-- **Coffee shop / café plumbing on YouTube:** coffee carts, coffee food trucks and home coffee bars. No brick-and-mortar café plumbing walkthrough.
-- **Under-slab plumbing on YouTube:** residential rough-ins (bathrooms, house slabs). No commercial food-service slab.
-- **Grease trap for a coffee shop:** vendor and locator sites, septic companies, city pretreatment pages, and a coffee-forum help thread. No video from an owner.
-- **Coffee shop build-out guides:** blogs (Toast, Bellwether, Custom Home's *Coffee Shop Buildout Guide 2026*). Same pattern EP5 targeted.
-
-**Facts the script relies on, with where they came from**
-
-- Cedar Park adopted the **2021 International Plumbing Code**, effective June 1, 2022. Slope and indirect-waste rules come from IPC chapters 7 and 8. **Trieu confirms the specific numbers on your pipe.**
-- **Indirect waste:** ice machines and similar food-service equipment discharge through an air gap into a trapped receptor such as a floor sink, not directly to the drain.
-- **Grease interceptors:** food-service fixtures, commonly including 3-compartment sinks, dump sinks, espresso machine drains and floor sinks, discharge through an approved interceptor where required. Requirements and sizes are **local**. Cedar Park runs its own Industrial Pretreatment Program.
-- **Backflow:** from your EP4 health-district letter (pitcher rinser, ice machine, coffee machines). Cedar Park also has a cross-connection control ordinance, so check it for testing requirements.
-- **Cost ranges (context only, don't use on camera; your numbers are the point):** small under-sink interceptor units about $250–$500 plus $300–$800 install; mid-size indoor 20–50 gal about $800–$2,500 plus $1,200–$3,500 install; in-ground 1,000+ gal about $3,000–$8,000 installed.
-
-**Caveat:** this pass checked what ranks, not autocomplete demand or view counts. Run the two-minute autocomplete check before locking the title.
+- **Licensing:** Texas requires a licensed plumber under a registered contractor for commercial work, with no small-commercial exemption. The homeowner exemption is limited to your own homestead. Permits and inspections apply regardless.
+- **Silica:** OSHA Table 1 (29 CFR 1926.1153): a walk-behind saw needs integrated water delivery to the blade. Indoors, the operator also needs a respirator with APF 10, plus exhaust as needed to limit dust buildup.
+- **Code:** Cedar Park adopted the 2021 IPC. Indirect waste (ice machine, etc.) goes through an air gap to a receptor such as a floor sink. The grease interceptor is set by the city's Industrial Pretreatment Program. Backflow devices at point of use come from your EP4 health-district letter.
+- **Search:** "budget/cheap plumbing" is owned by residential DIY content. Keep "coffee shop" first in the title. The coffee-shop plumbing results are carts, trucks and home bars.
 
 ### Sources
 
+- [TSBPE — Plumbing License Law (plain view, June 2023)](https://tsbpe.texas.gov/wp-content/uploads/documents/TSBPE_PlumbingLicenseLaw(PlainView)_June2023.pdf)
+- [Commercial Plumbing Requirements in Texas — Texas Plumbing Authority](https://texasplumbingauthority.com/texas-commercial-plumbing-requirements/)
+- [Do You Need a Plumbing License in Texas? — LegalClarity](https://legalclarity.org/do-you-need-a-plumbing-license-in-texas/)
+- [OSHA — Control of Silica Dust in Construction: Walk-Behind Saws (PDF)](https://www.osha.gov/sites/default/files/publications/OSHA_FS-3633.pdf)
+- [OSHA — Silica, Crystalline: Construction](https://www.osha.gov/silica-crystalline/construction)
 - [City of Cedar Park — Article 3.01 Building Code (adopted codes)](https://ecode360.com/38594205)
 - [City of Cedar Park — Cross-Connection Control](https://ecode360.com/38630063)
-- [City of Cedar Park — Utility Connection Survey, Food Service (PDF)](https://cedarparktexas.gov/DocumentCenter/View/469/Utility-Connection-Survey---Food-PDF)
 - [Texas IHB Plumbing Code 2021 (IPC 2021) — UpCodes](https://up.codes/viewer/texas/ipc-2021)
 - [Indirect Waste Connections to Floor Sinks: Code Requirements](https://www.plumbingsupplyandmore.com/indirect-waste-connections-to-floor-sinks-code-requirements)
-- [Commercial Kitchen Indirect Waste fact sheet — NMCPHC (PDF)](https://www.med.navy.mil/Portals/62/Documents/NMFA/NMCPHC/root/Program%20and%20Policy%20Support/Food%20Sanitation%20and%20Safety/ComKitchenPlumbingIndirectWasteFactSheet2205.pdf)
-- [King County — Plumbing Requirements for Food Establishments (PDF)](https://cdn.kingcounty.gov/-/media/king-county/depts/dph/documents/certificates-permits-licenses/food-worker-business-permits/plumbing-requirements-food-establishments.pdf)
 - [Is a Grease Trap Required? Restaurant & Coffee Shop Rules](https://greasetraplocator.com/is-grease-trap-required/)
 - [Grease Trap Installation Cost 2026](https://greasetraplocator.com/grease-trap-installation-cost/)
-- [Grease Trap Regulations in Texas (2026 Guide)](https://greasetraplocator.com/regulations/texas/)
 - [Coffee Forums — NEED HELP! Grease Trap Requirements](https://www.coffeeforums.com/threads/need-help-grease-trap-requirements.4055/)
 - [Plumbing for a Coffee Food Truck — YouTube](https://www.youtube.com/watch?v=G4FF6XmYVKo)
 - [Coffee Cart Plumbing & Build — YouTube](https://www.youtube.com/watch?v=C1EWmRWDNtQ)
-- [Rough in plumbing basics for under a slab — YouTube](https://www.youtube.com/watch?v=CYFa_01qc1g)
-- [Coffee Shop Buildout Guide 2026 — Custom Home](https://www.customhome.us/blog/coffee-shop-buildout-guide)
